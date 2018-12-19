@@ -1,0 +1,1 @@
+faCe = lambda x: (x-32)*5/9
